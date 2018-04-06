@@ -9,5 +9,19 @@ You can also post a thread in the forum, explaining your thoughts. Some mentor w
 * Solution to Quizzes
 * Notes
 
+#### Week1
+* Welcome
+* Introduction
+
+#### Week2
+* Multivariate Linear Regression
+* Computing Parameters Analytically
+
+#### Week3
+* Classification and Representation
+* Logistic Regression Model
+* Multiclass Classification
+* Solving the Problem of Overfitting
+
 ## References
 https://www.coursera.org/learn/machine-learning
